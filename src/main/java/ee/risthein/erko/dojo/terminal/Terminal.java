@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @author Erko Risthein
  */
-class Terminal {
+public class Terminal {
     public static final int MAX_SIZE = 30 * 30;
     public static final int COST_PER_DAY = 100;
 

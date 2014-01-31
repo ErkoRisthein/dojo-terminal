@@ -5,7 +5,7 @@ import org.joda.time.LocalDate;
 /**
  * @author Erko Risthein
  */
-class Container {
+public class Container {
     private String owner;
     private LocalDate checkInDate;
     private LocalDate checkOutDate;

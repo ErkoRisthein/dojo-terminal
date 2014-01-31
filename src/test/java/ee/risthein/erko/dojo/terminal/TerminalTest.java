@@ -14,7 +14,6 @@ import static org.mockito.MockitoAnnotations.initMocks;
 /**
  * @author Erko Risthein
  */
-
 public class TerminalTest {
     @Mock
     Clock clock;
